@@ -1,0 +1,1 @@
+Extract queries for showing customers how vairbale components in an assembly are costing inspection time bottlenecking throughput when compared with more modular components, due to the nature of their standard for AQL
