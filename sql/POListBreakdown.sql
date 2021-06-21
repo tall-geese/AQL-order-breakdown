@@ -7,7 +7,7 @@ FROM (SELECT od.OrderNum, cs.CustID, od.OrderQty, od.BasePartNum, od.OrderLine,
 		END AS [ConJobNum]
 	FROM EpicorLive10.dbo.OrderDtl od 
 	LEFT OUTER JOIN EpicorLive10.dbo.Customer cs on cs.CustNum = od.CustNum
-	WHERE LEN(od.OrderNum) = 4 and od.OrderNum ='3452') src
+	WHERE LEN(od.OrderNum) = 4 and od.OrderNum ='3582') src
 LEFT OUTER JOIN EpicorLive10.dbo.JobHead jh on src.ConJobNum = jh.JobNum 
 WHERE jh.JobComplete = 1
 ORDER BY src.OrderNum DESC
@@ -27,5 +27,5 @@ FROM (SELECT od.OrderNum, cs.CustID, od.OrderQty, od.BasePartNum, od.OrderLine,
 LEFT OUTER JOIN EpicorLive10.dbo.JobHead jh on src.ConJobNum = jh.JobNum 
 WHERE jh.JobComplete = 1
 GROUP BY src.OrderNum
-HAVING Count(*) = Max(src.OrderLine) and Count(*) <> 1
+HAVING Count(*) = Max(src.OrderLine) and Count(*) <> 1 and Max(src.CustID) = 'NUVAS'
 ORDER BY src.OrderNum DESC

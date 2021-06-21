@@ -1,0 +1,41 @@
+The big question is can we simply take the AQL dedicated to the transaction for the 
+	Subassemblies and just use them as a placeholder for the tulips?
+	Or will we get different results if we break up the sub assem components?
+
+	>> In this example there was only a 2% error.
+		HOWEVER - THis is only becuase we only had to scrap a FEW parts from the lot
+		of the subassmebly jobs. If we ended up scrapping a lot then we would be
+		over-inflating the AQL attributed to inspection.
+
+
+
+Can we use the ROUND(jh.OriginalProdQty * 1.1,0) instead of the jh.ProdQty?
+ProdQty doesnt dictate the amount of inspection we do in reality, however we are treating it this way
+in the query and if we scrapped a lot of parts mid-way this could throw us into a different AQL Bracket
+
+	>> Nope, nvm we're fine here. We dont actually apply the 10% when calculating the AQL
+
+
+In every PO we can have a lines broken up becuase
+they are a different length or because they are a 
+different diameter.
+
+	Can we find the minimum number of setups per Order?
+
+-----------------------------------------------------------
+
+Objective:
+	query up the tulips and extensions in a line item in such a manner
+	that we have:
+	the line-item job number on the left,
+	the qty of tulips / extensions transferred in the middle
+	the original production qty on the right
+
+
+
+Do we need to filter out (-) negative transaction quantities?
+
+	These negative transaction quantities seem to usually mean DOUBLE positive quantities.
+	Find evidence of this, might mean that we need to DISTINCTly search here.
+
+		
