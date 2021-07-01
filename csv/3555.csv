@@ -1,0 +1,49 @@
+JobNum,LotNum,DrawNum,PartDescription,TranQty,QtyCompleted,PhaseID,OrigProdQty,AQLAmount,AQLforTranQty
+3555-01-1,NV14415,1642652,Reline MAS Reduction Tulip Base,80.0,275.0,Tulip,250.0,20.0,5.818182
+3555-01-1,NV14422,1642646,Reline Breakoff Extension,80.0,275.0,Extension,250.0,20.0,5.818182
+3555-01-1,nv14434,1642666,Reline Clip Ring Flat,80.0,1308.0,Clip/Split Ring,1000.0,34.0,2.079511
+3555-01-1,NV14680,1642661,Reline Poly Load Ring,80.0,1478.0,Load Ring,1000.0,34.0,1.840325
+3555-01-1,nv14855,1751200,7.5 x 55mm Cannulated Cancellous Shank,80.0,282.0,Shank,250.0,20.0,5.673759
+3555-02-1,NV14383,1642652,Reline MAS Reduction Tulip Base,20.0,275.0,Tulip,250.0,20.0,1.454545
+3555-02-1,NV14389,1642646,Reline Breakoff Extension,20.0,275.0,Extension,250.0,20.0,1.454545
+3555-02-1,NV14391,1642661,Reline Poly Load Ring,20.0,1100.0,Load Ring,1000.0,34.0,0.618182
+3555-02-1,NV14395,1642666,Reline Clip Ring Flat,20.0,1099.0,Clip/Split Ring,1000.0,34.0,0.618744
+3555-02-1,NV7742,1751200,4.5 x 55mm Cannulated Cancellous Shank,22.0,22.0,Shank,40.0,13.0,13.0
+3555-02-2,NV14108,1642646,Reline Breakoff Extension,14.0,275.0,Extension,250.0,20.0,1.018182
+3555-02-2,NV14174,1642661,Reline Poly Load Ring,14.0,1100.0,Load Ring,1000.0,34.0,0.432727
+3555-02-2,NV14382,1642652,Reline MAS Reduction Tulip Base,14.0,275.0,Tulip,250.0,20.0,1.018182
+3555-02-2,NV14438,1642666,Reline Clip Ring Flat,14.0,1100.0,Clip/Split Ring,500.0,29.0,0.369091
+3555-02-2,NV14582,1751200,4.5 x 55mm Cannulated Cancellous Shank,14.0,63.0,Shank,28.0,13.0,2.888889
+3555-02-3,NV14174,1642661,Reline Poly Load Ring,16.0,1100.0,Load Ring,1000.0,34.0,0.494545
+3555-02-3,NV14395,1642666,Reline Clip Ring Flat,23.0,1099.0,Clip/Split Ring,1000.0,34.0,0.711556
+3555-02-3,NV14582,1751200,4.5 x 55mm Cannulated Cancellous Shank,16.0,63.0,Shank,28.0,13.0,3.301587
+3555-03-1,nv14583,1751200,5.5 x 40mm Cannulated Cancellous Shank,49.0,49.0,Shank,45.0,13.0,13.0
+3555-03-1,NV14680,1642661,Reline Poly Load Ring,49.0,1478.0,Load Ring,1000.0,34.0,1.127199
+3555-03-1,nv14681,1642666,Reline Clip Ring Flat,49.0,1200.0,Clip/Split Ring,1000.0,34.0,1.388333
+3555-03-1,NV14691,1642646,Reline Breakoff Extension,49.0,274.0,Extension,250.0,20.0,3.576642
+3555-03-1,NV14782,1642652,Reline MAS Reduction Tulip Base,49.0,275.0,Tulip,250.0,20.0,3.563636
+3555-04-1,NV14424,1642646,Reline Breakoff Extension,55.0,273.0,Extension,250.0,20.0,4.029304
+3555-04-1,nv14585,1751200,8.5 x 35mm Cannulated Cancellous Shank,54.0,54.0,Shank,50.0,13.0,13.0
+3555-04-1,NV14680,1642661,Reline Poly Load Ring,55.0,1478.0,Load Ring,1000.0,34.0,1.265223
+3555-04-1,nv14681,1642666,Reline Clip Ring Flat,54.0,1200.0,Clip/Split Ring,1000.0,34.0,1.53
+3555-04-1,NV14689,1642652,Reline MAS Reduction Tulip Base,55.0,275.0,Tulip,250.0,20.0,4.0
+3555-05-1,NV14393,1642661,Reline Poly Load Ring,54.0,1150.0,Load Ring,1000.0,34.0,1.596522
+3555-05-1,NV14425,1642646,Reline Breakoff Extension,54.0,273.0,Extension,250.0,20.0,3.956044
+3555-05-1,NV14586,1751200,8.5 x 40mm Cannulated Cancellous Shank,54.0,54.0,Shank,50.0,13.0,13.0
+3555-05-1,NV14681,1642666,Reline Clip Ring Flat,54.0,1200.0,Clip/Split Ring,1000.0,34.0,1.53
+3555-05-1,NV14780,1642652,Reline MAS Reduction Tulip Base,54.0,275.0,Tulip,250.0,20.0,3.927273
+3555-06-1,NV14409,1642652,Reline MAS Reduction Tulip Base,26.0,275.0,Tulip,250.0,20.0,1.890909
+3555-06-1,NV14421,1642646,Reline Breakoff Extension,26.0,275.0,Extension,250.0,20.0,1.890909
+3555-06-1,NV14433,1642666,Reline Clip Ring Flat,26.0,1103.0,Clip/Split Ring,1000.0,34.0,0.801451
+3555-06-1,NV14587,1751200,8.5 x 50mm Cannulated Cancellous Shank,28.0,28.0,Shank,25.0,13.0,13.0
+3555-06-1,NV14593,1642661,Reline Poly Load Ring,28.0,550.0,Load Ring,250.0,20.0,1.018182
+3555-06-2,NV13919,1751200,8.5 x 50mm Cannulated Cancellous Shank,25.0,25.0,Shank,25.0,13.0,13.0
+3555-06-2,NV14593,1642661,Reline Poly Load Ring,25.0,550.0,Load Ring,250.0,20.0,0.909091
+3555-06-2,NV14681,1642666,Reline Clip Ring Flat,25.0,1200.0,Clip/Split Ring,1000.0,34.0,0.708333
+3555-06-2,NV14693,1642646,Reline Breakoff Extension,25.0,273.0,Extension,250.0,20.0,1.831502
+3555-06-2,NV14781,1642652,Reline MAS Reduction Tulip Base,25.0,275.0,Tulip,250.0,20.0,1.818182
+3555-07-1,NV14407,1642652,Reline MAS Reduction Tulip Base,80.0,275.0,Tulip,250.0,20.0,5.818182
+3555-07-1,NV14432,1642661,Reline Poly Load Ring,80.0,1158.0,Load Ring,1000.0,34.0,2.348877
+3555-07-1,NV14438,1642666,Reline Clip Ring Flat,80.0,1100.0,Clip/Split Ring,500.0,29.0,2.109091
+3555-07-1,NV14553,1642646,Reline Breakoff Extension,80.0,275.0,Extension,184.0,20.0,5.818182
+3555-07-1,NV14588,1751200,8.5 x 55mm Cannulated Cancellous Shank,80.0,132.0,Shank,70.0,13.0,7.878788

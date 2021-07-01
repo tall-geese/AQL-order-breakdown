@@ -4,3 +4,5 @@ Inspection Frequencies and Time.xlsx
 NuVasive SO List.xlsx
 .gitignore
 Obsolete
+VirEnv/
+config.py

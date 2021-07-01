@@ -1,0 +1,45 @@
+JobNum,LotNum,DrawNum,PartDescription,TranQty,QtyCompleted,PhaseID,OrigProdQty,AQLAmount,AQLforTranQty
+3563-01-1,NV12045,1642664,Reline Closed Iliac Load Ring,72.0,977.0,Load Ring,500.0,29.0,2.137155
+3563-01-1,NV12374,1642657,Reline Closed Iliac Tulip,72.0,550.0,Tulip,500.0,29.0,3.796364
+3563-01-1,NV13786,1642666,Reline Clip Ring Flat,72.0,1045.0,Clip/Split Ring,1000.0,34.0,2.342584
+3563-01-1,NV14621,1759000,7.5 x 90mm Grit Blast Solid Cancellous Shank,72.0,72.0,Shank,65.0,13.0,13.0
+3563-02-1,NV12045,1642664,Reline Closed Iliac Load Ring,55.0,977.0,Load Ring,500.0,29.0,1.632549
+3563-02-1,NV14596,1642666,Reline Clip Ring Flat,55.0,554.0,Clip/Split Ring,500.0,29.0,2.879061
+3563-02-1,NV14619,1642657,Reline Closed Iliac Tulip,55.0,275.0,Tulip,250.0,20.0,4.0
+3563-02-1,NV14623,1759000,8.5 x 100mm Grit Blast Solid Cancellous Shank,55.0,138.0,Shank,50.0,13.0,5.181159
+3563-03-1,NV11848,1759000,8.5 x 80mm Grit Blast Solid Cancellous Shank,52.0,105.0,Shank,95.0,13.0,6.438095
+3563-03-1,NV12045,1642664,Reline Closed Iliac Load Ring,50.0,977.0,Load Ring,500.0,29.0,1.484135
+3563-03-1,NV14596,1642666,Reline Clip Ring Flat,46.0,554.0,Clip/Split Ring,500.0,29.0,2.407942
+3563-03-1,NV14619,1642657,Reline Closed Iliac Tulip,46.0,275.0,Tulip,250.0,20.0,3.345455
+3563-04-1,nv12345,1642664,Reline Closed Iliac Load Ring,55.0,550.0,Load Ring,500.0,29.0,2.9
+3563-04-1,NV14622,1759000,8.5 x 90mm Grit Blast Solid Cancellous Shank,55.0,55.0,Shank,50.0,13.0,13.0
+3563-04-1,NV14823,1642666,Reline Clip Ring Flat,55.0,1100.0,Clip/Split Ring,1000.0,34.0,1.7
+3563-04-1,NV14936,1642657,Reline Closed Iliac Tulip,55.0,550.0,Tulip,500.0,29.0,2.9
+3563-05-1,NV12044,1642664,Reline Closed Iliac Load Ring,30.0,550.0,Load Ring,500.0,29.0,1.581818
+3563-05-1,NV12374,1642657,Reline Closed Iliac Tulip,30.0,550.0,Tulip,500.0,29.0,1.581818
+3563-05-1,NV12883,1759000,9.5 x 60mm Grit Blast Solid Canccellous Shank,30.0,88.0,Shank,25.0,13.0,4.431818
+3563-05-1,NV14395,1642666,Reline Clip Ring Flat,30.0,1099.0,Clip/Split Ring,1000.0,34.0,0.928116
+3563-05-2,NV12345,1642664,Reline Closed Iliac Load Ring,30.0,550.0,Load Ring,500.0,29.0,1.581818
+3563-05-2,nv14596,1642666,Reline Clip Ring Flat,42.0,554.0,Clip/Split Ring,500.0,29.0,2.198556
+3563-05-2,NV14619,1642657,Reline Closed Iliac Tulip,30.0,275.0,Tulip,250.0,20.0,2.181818
+3563-05-2,nv14624,1759000,9.5 x 60mm Grit Blast Solid Canccellous Shank,30.0,57.0,Shank,25.0,13.0,6.842105
+3563-06-1,nv12345,1642664,Reline Closed Iliac Load Ring,55.0,550.0,Load Ring,500.0,29.0,2.9
+3563-06-1,NV12884,1759000,9.5 x 80mm Grit Blast Solid Cancellous Shank,52.0,106.0,Shank,25.0,13.0,6.377358
+3563-06-1,NV14823,1642666,Reline Clip Ring Flat,52.0,1100.0,Clip/Split Ring,1000.0,34.0,1.607273
+3563-06-1,NV14936,1642657,Reline Closed Iliac Tulip,55.0,550.0,Tulip,500.0,29.0,2.9
+3563-09-1,NV12015,1773400,5.5 x 40mm Fenestrated Shank,54.0,144.0,Shank,131.0,13.0,4.875
+3563-09-1,NV13148,1642666,Reline Clip Ring Formed,54.0,1197.0,Clip/Split Ring,1000.0,34.0,1.533835
+3563-09-1,NV14704,1642650,Reline Poly Screw Tulip,54.0,550.0,Tulip,250.0,20.0,1.963636
+3563-09-1,NV15202,1642661,Reline Poly Load Ring,54.0,1100.0,Load Ring,1000.0,34.0,1.669091
+3563-10-1,NV12224,1773400,6.5 x 55mm Fenestrated Shank,30.0,83.0,Shank,75.0,13.0,4.698795
+3563-10-1,nv13148,1642666,Reline Clip Ring Formed,59.0,1197.0,Clip/Split Ring,1000.0,34.0,1.675856
+3563-10-1,nv14704,1642650,Reline Poly Screw Tulip,59.0,550.0,Tulip,250.0,20.0,2.145455
+3563-10-1,nv14807,1642661,Reline Poly Load Ring,59.0,1100.0,Load Ring,1000.0,34.0,1.823636
+3563-10-2,NV13148,1642666,Reline Clip Ring Formed,28.0,1197.0,Clip/Split Ring,1000.0,34.0,0.795322
+3563-10-2,NV14625,1773400,6.5 x 55mm Fenestrated Shank,28.0,28.0,Shank,25.0,13.0,13.0
+3563-10-2,NV14704,1642650,Reline Poly Screw Tulip,29.0,550.0,Tulip,250.0,20.0,1.054545
+3563-10-2,NV14807,1642661,Reline Poly Load Ring,29.0,1100.0,Load Ring,1000.0,34.0,0.896364
+3563-11-1,nv12367,1773400,7.5 x 50mm Fenestrated Shank,54.0,176.0,Shank,160.0,20.0,6.136364
+3563-11-1,nv13148,1642666,Reline Clip Ring Formed,54.0,1197.0,Clip/Split Ring,1000.0,34.0,1.533835
+3563-11-1,nv14697,1642650,Reline Poly Screw Tulip,54.0,550.0,Tulip,500.0,29.0,2.847273
+3563-11-1,NV14810,1642661,Reline Poly Load Ring,54.0,1100.0,Load Ring,1000.0,34.0,1.669091

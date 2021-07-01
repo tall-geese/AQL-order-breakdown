@@ -20,7 +20,7 @@ FROM (SELECT pt.JobNum, pt.LotNum, jh.DrawNum, pt.PartDescription, pt.TranQty, j
 			END AS AQLAmount
 FROM EpicorLive10.dbo.PartTran pt
 Left outer join EpicorLive10.dbo.JobHead jh on pt.LotNum = jh.JobNum 
-WHERE pt.TranQty > 0 and pt.JobNum LIKE '{}%' AND jh.PhaseID NOT IN  ('Sub-Assy','Assy')
+WHERE pt.TranQty > 0 and pt.JobNum LIKE '{SO}%' AND jh.PhaseID NOT IN  ('Sub-Assy','Assy')
 and JH.PhaseID IS NOT NULL) src2
 UNION ALL
 SELECT DISTINCT src.*, (src.TranQty/src.QtyCompleted) * src.AQLAmount[AQLforTranQty]
@@ -43,7 +43,7 @@ FROM EpicorLive10.dbo.PartTran pt
 LEFT OUTER JOIN EpicorLive10.dbo.PartTran pt2 ON pt.LotNum = pt2.JobNum 
 LEFT OUTER JOIN EpicorLive10.dbo.JobHead jh ON jh.JobNum = pt2.JobNum 
 LEFT OUTER JOIN EpicorLive10.dbo.JobHead jh2 ON jh2.JobNum = pt2.LotNum 
-WHERE pt.TranQty > 0 and pt.JobNum LIKE '{}%' AND jh.PhaseID = 'Sub-Assy' AND pt2.TranType = 'STK-MTL' AND pt2.TranQty > 0)src
+WHERE pt.TranQty > 0 and pt.JobNum LIKE '{SO}%' AND jh.PhaseID = 'Sub-Assy' AND pt2.TranType = 'STK-MTL' AND pt2.TranQty > 0)src
 ORDER BY JobNum;
 
 
