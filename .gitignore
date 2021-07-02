@@ -6,3 +6,5 @@ NuVasive SO List.xlsx
 Obsolete
 VirEnv/
 config.py
+notebooks/.ipynb_checkpoints/*
+DataCollectionAndCleaning-checkpoint.ipynb
