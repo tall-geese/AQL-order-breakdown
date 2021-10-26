@@ -1,0 +1,88 @@
+JobNum,LotNum,DrawNum,PartDescription,TranQty,QtyCompleted,PhaseID,OrigProdQty,AQLAmount,AQLforTranQty
+003664-10-1,NV12270,1614500,5.5 x 40mm PRECEPT Fenestrated Screw Shank,40.0,276.0,Shank,250.0,20.0,2.898551
+003664-10-1,NV15612,1582025,Precept Poly C.R. Tulip,40.0,650.0,Tulip,500.0,29.0,1.784615
+003664-10-1,nv15617,1582022,Precept Poly Clip Ring,40.0,1495.0,Clip/Split Ring,1000.0,34.0,0.909699
+Load Ring,Load Ring,Load Ring,Load Ring,Load Ring,Load Ring,Load Ring,Load Ring,Load Ring,Load Ring
+003664-10-2,nv15280,1582025,Precept Poly C.R. Tulip,39.0,564.0,Tulip,500.0,29.0,2.005319
+003664-10-2,NV15617,1582022,Precept Poly Clip Ring,39.0,1495.0,Clip/Split Ring,1000.0,34.0,0.886957
+Load Ring,Load Ring,Load Ring,Load Ring,Load Ring,Load Ring,Load Ring,Load Ring,Load Ring,Load Ring
+003664-10-2,nv15696,1614500,5.5 x 40mm PRECEPT Fenestrated Screw Shank,34.0,34.0,Shank,26.0,13.0,13.0
+003664-1-1,nv10498,1541900,5.5 Poly Tulip 5.5 Ti,27.0,529.0,Tulip,500.0,29.0,1.480151
+003664-1-1,NV11146,1541901,5.5mm Load Ring Ti,27.0,556.0,Load Ring,500.0,29.0,1.408273
+003664-1-1,NV15215,1541902,"Deformity Poly Split Ring, Ti",27.0,1024.0,Clip/Split Ring,500.0,29.0,0.764648
+003664-1-1,NV15614,1567700,5.5 x 40mm Fenestrated Shank,28.0,28.0,Shank,25.0,13.0,13.0
+003664-11-1,nv15280,1582025,Precept Poly C.R. Tulip,80.0,564.0,Tulip,500.0,29.0,4.113475
+003664-11-1,nv15302,1614500,5.5 x 45mm PRECEPT Fenestrated Screw Shank,77.0,236.0,Shank,155.0,20.0,6.525424
+003664-11-1,nv15617,1582022,Precept Poly Clip Ring,77.0,1495.0,Clip/Split Ring,1000.0,34.0,1.751171
+Load Ring,Load Ring,Load Ring,Load Ring,Load Ring,Load Ring,Load Ring,Load Ring,Load Ring,Load Ring
+003664-12-1,nv15612,1582025,Precept Poly C.R. Tulip,27.0,650.0,Tulip,500.0,29.0,1.204615
+003664-12-1,nv15617,1582022,Precept Poly Clip Ring,27.0,1495.0,Clip/Split Ring,1000.0,34.0,0.614047
+Load Ring,Load Ring,Load Ring,Load Ring,Load Ring,Load Ring,Load Ring,Load Ring,Load Ring,Load Ring
+003664-12-1,nv15626,1614500,5.5 x 55mm PRECEPT Fenestrated Screw Shank,28.0,28.0,Shank,25.0,13.0,13.0
+003664-13-1,NV15612,1582025,Precept Poly C.R. Tulip,33.0,650.0,Tulip,500.0,29.0,1.472308
+003664-13-1,nv15617,1582022,Precept Poly Clip Ring,33.0,1495.0,Clip/Split Ring,1000.0,34.0,0.750502
+Load Ring,Load Ring,Load Ring,Load Ring,Load Ring,Load Ring,Load Ring,Load Ring,Load Ring,Load Ring
+003664-13-1,NV15627,1614560,6.5 x 40mm PRECEPT Fenestrated Screw Shank,33.0,33.0,Shank,30.0,13.0,13.0
+003664-13-2,NV11265,1614560,6.5 x 40mm PRECEPT Fenestrated Screw Shank,11.0,248.0,Shank,200.0,20.0,0.887097
+003664-13-2,NV14641,1582022,Precept Poly Clip Ring,11.0,1100.0,Clip/Split Ring,1000.0,34.0,0.34
+003664-13-2,NV14659,1582023,Precept Poly C.R. Load Ring,12.0,862.0,Load Ring,500.0,29.0,0.403712
+003664-13-2,nv15611,1582025,Precept Poly C.R. Tulip,10.0,700.0,Tulip,500.0,29.0,0.414286
+003664-13-3,NV11266,1614560,6.5 x 40mm PRECEPT Fenestrated Screw Shank,9.0,143.0,Shank,110.0,13.0,0.818182
+003664-13-3,NV14641,1582022,Precept Poly Clip Ring,6.0,1100.0,Clip/Split Ring,1000.0,34.0,0.185455
+003664-13-3,NV14658,1582023,Precept Poly C.R. Load Ring,7.0,552.0,Load Ring,500.0,29.0,0.367754
+003664-13-3,nv15611,1582025,Precept Poly C.R. Tulip,6.0,700.0,Tulip,500.0,29.0,0.248571
+003664-14-1,NV14659,1582023,Precept Poly C.R. Load Ring,137.0,862.0,Load Ring,500.0,29.0,4.609049
+003664-14-1,NV15274,1582022,Precept Poly Clip Ring,137.0,1099.0,Clip/Split Ring,1000.0,34.0,4.238399
+003664-14-1,nv15304,1614560,6.5 x 45mm PRECEPT Fenestrated Screw Shank,121.0,258.0,Shank,125.0,13.0,6.096899
+003664-14-1,NV15611,1582025,Precept Poly C.R. Tulip,137.0,700.0,Tulip,500.0,29.0,5.675714
+003664-15-1,nv15236,1614560,6.5 x 50mm PRECEPT Fenestrated Screw Shank,138.0,275.0,Shank,100.0,13.0,6.523636
+003664-15-1,NV15274,1582022,Precept Poly Clip Ring,138.0,1099.0,Clip/Split Ring,1000.0,34.0,4.269336
+003664-15-1,NV15276,1582023,Precept Poly C.R. Load Ring,138.0,550.0,Load Ring,500.0,29.0,7.276364
+003664-15-1,nv15612,1582025,Precept Poly C.R. Tulip,138.0,650.0,Tulip,500.0,29.0,6.156923
+003664-16-1,NV12132,1614560,7.5 x 50mm PRECEPT Fenestrated Screw Shank,55.0,275.0,Shank,250.0,20.0,4.0
+003664-16-1,nv15280,1582025,Precept Poly C.R. Tulip,55.0,564.0,Tulip,500.0,29.0,2.828014
+003664-16-1,nv15617,1582022,Precept Poly Clip Ring,55.0,1495.0,Clip/Split Ring,1000.0,34.0,1.250836
+Load Ring,Load Ring,Load Ring,Load Ring,Load Ring,Load Ring,Load Ring,Load Ring,Load Ring,Load Ring
+003664-17-1,NV14643,1590480,7.5 x 45mm Precept Screw Shank,30.0,275.0,Shank,40.0,13.0,1.418182
+003664-17-1,nv15612,1582025,Precept Poly C.R. Tulip,27.0,650.0,Tulip,500.0,29.0,1.204615
+003664-17-1,nv15617,1582022,Precept Poly Clip Ring,30.0,1495.0,Clip/Split Ring,1000.0,34.0,0.682274
+Load Ring,Load Ring,Load Ring,Load Ring,Load Ring,Load Ring,Load Ring,Load Ring,Load Ring,Load Ring
+003664-18-1,nv15612,1582025,Precept Poly C.R. Tulip,55.0,650.0,Tulip,500.0,29.0,2.453846
+003664-18-1,nv15617,1582022,Precept Poly Clip Ring,3.0,1495.0,Clip/Split Ring,1000.0,34.0,0.068227
+003664-18-1,nv15617,1582022,Precept Poly Clip Ring,50.0,1495.0,Clip/Split Ring,1000.0,34.0,1.137124
+Load Ring,Load Ring,Load Ring,Load Ring,Load Ring,Load Ring,Load Ring,Load Ring,Load Ring,Load Ring
+Load Ring,Load Ring,Load Ring,Load Ring,Load Ring,Load Ring,Load Ring,Load Ring,Load Ring,Load Ring
+003664-18-1,nv15621,1590480,7.5 x 50mm Precept Screw Shank,50.0,224.0,Shank,125.0,13.0,2.901786
+003664-18-1,nv15621,1590480,7.5 x 50mm Precept Screw Shank,53.0,224.0,Shank,125.0,13.0,3.075893
+003664-19-1,nv15280,1582025,Precept Poly C.R. Tulip,27.0,564.0,Tulip,500.0,29.0,1.388298
+003664-19-1,NV15617,1582022,Precept Poly Clip Ring,27.0,1495.0,Clip/Split Ring,1000.0,34.0,0.614047
+003664-19-1,NV15619,1582023,Precept Poly C.R. Load Ring,27.0,776.0,Load Ring,500.0,29.0,1.009021
+003664-19-1,nv15623,1590480,9.5 x 45mm Precept Screw Shank,28.0,28.0,Shank,25.0,13.0,13.0
+003664-2-1,NV11146,1541901,5.5mm Load Ring Ti,27.0,556.0,Load Ring,500.0,29.0,1.408273
+003664-2-1,nv11151,1541900,5.5 Poly Tulip 5.5 Ti,27.0,545.0,Tulip,500.0,29.0,1.436697
+003664-2-1,NV12182,1567720,6.5 x 40mm Fenestrated Shank,27.0,55.0,Shank,50.0,13.0,6.381818
+003664-2-1,NV15215,1541902,"Deformity Poly Split Ring, Ti",27.0,1024.0,Clip/Split Ring,500.0,29.0,0.764648
+003664-3-1,nv10498,1541900,5.5 Poly Tulip 5.5 Ti,27.0,529.0,Tulip,500.0,29.0,1.480151
+003664-3-1,NV11146,1541901,5.5mm Load Ring Ti,27.0,556.0,Load Ring,500.0,29.0,1.408273
+003664-3-1,NV15215,1541902,"Deformity Poly Split Ring, Ti",27.0,1024.0,Clip/Split Ring,500.0,29.0,0.764648
+003664-3-1,NV15615,1567720,6.5 x 45mm Fenestrated Shank,27.0,54.0,Shank,25.0,13.0,6.5
+003664-4-1,NV10457,1541901,5.5mm Load Ring Ti,55.0,604.0,Load Ring,500.0,29.0,2.640728
+003664-4-1,NV11151,1541900,5.5 Poly Tulip 5.5 Ti,55.0,545.0,Tulip,500.0,29.0,2.926606
+003664-4-1,NV15215,1541902,"Deformity Poly Split Ring, Ti",55.0,1024.0,Clip/Split Ring,500.0,29.0,1.557617
+003664-4-1,NV15616,1567720,6.5 x 50mm Fenestrated Shank,55.0,55.0,Shank,50.0,13.0,13.0
+003664-5-1,NV11859,1590480,7.5 x 35mm Precept Screw Shank,51.0,193.0,Shank,175.0,20.0,5.284974
+003664-5-1,NV15212,1582022,Precept Poly Clip Ring,51.0,1082.0,Clip/Split Ring,1000.0,34.0,1.602588
+003664-5-1,NV15213,1582023,Precept Poly C.R. Load Ring,56.0,579.0,Load Ring,500.0,29.0,2.804836
+003664-5-1,NV15279,1582025,Precept Poly C.R. Tulip,51.0,690.0,Tulip,500.0,29.0,2.143478
+003664-6-1,NV12163,1590480,7.5 x 40mm Precept Screw Shank,27.0,275.0,Shank,250.0,20.0,1.963636
+003664-6-1,NV15274,1582022,Precept Poly Clip Ring,27.0,1099.0,Clip/Split Ring,1000.0,34.0,0.835305
+003664-6-1,NV15276,1582023,Precept Poly C.R. Load Ring,27.0,550.0,Load Ring,500.0,29.0,1.423636
+003664-6-1,nv15612,1582025,Precept Poly C.R. Tulip,27.0,650.0,Tulip,500.0,29.0,1.204615
+003664-7-1,NV15274,1582022,Precept Poly Clip Ring,110.0,1099.0,Clip/Split Ring,1000.0,34.0,3.403094
+003664-7-1,NV15276,1582023,Precept Poly C.R. Load Ring,110.0,550.0,Load Ring,500.0,29.0,5.8
+003664-7-1,nv15612,1582025,Precept Poly C.R. Tulip,110.0,650.0,Tulip,500.0,29.0,4.907692
+003664-7-1,nv15620,1590480,7.5 x 45mm Precept Screw Shank,110.0,238.0,Shank,125.0,13.0,6.008403
+003664-8-1,NV14657,1582022,Precept Poly Clip Ring,130.0,1637.0,Clip/Split Ring,1000.0,34.0,2.700061
+003664-8-1,NV14658,1582023,Precept Poly C.R. Load Ring,130.0,552.0,Load Ring,500.0,29.0,6.82971
+003664-8-1,NV14700,1590480,7.5 x 50mm Precept Screw Shank,130.0,155.0,Shank,85.0,13.0,10.903226
+003664-8-1,nv14970,1582025,Precept Poly C.R. Tulip,130.0,550.0,Tulip,250.0,20.0,4.727273
