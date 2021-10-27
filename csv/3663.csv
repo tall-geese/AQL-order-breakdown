@@ -12,14 +12,14 @@ JobNum,LotNum,DrawNum,PartDescription,TranQty,QtyCompleted,PhaseID,OrigProdQty,A
 003663-11-1,nv15287,1773781,RSS Clip Ring Formed,110.0,1100.0,Clip/Split Ring,1000.0,34.0,3.4
 003663-11-1,nv15290,1773788,RSS Load Ring,110.0,1553.0,Load Ring,1000.0,34.0,2.408242
 003663-12-1,NV13546,1722000,5.0 x 20mm .265 Solid Cancellous Shank,27.0,550.0,Shank,500.0,29.0,1.423636
-Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring
+003663-12-1,NV15327,1773781,RSS Clip Ring Formed,27.0,1331.0,Cam???,1000.0,34.0,0.689707
 003663-12-1,nv15377,1773780,RSS Polyaxial Screw Tulip,27.0,550.0,Tulip,500.0,29.0,1.423636
 003663-12-1,nv15602,1773788,RSS Load Ring,27.0,1105.0,Load Ring,1000.0,34.0,0.830769
 003663-13-1,NV15287,1773781,RSS Clip Ring Formed,31.0,1100.0,Clip/Split Ring,1000.0,34.0,0.958182
 003663-13-1,nv15289,1773788,RSS Load Ring,27.0,1097.0,Load Ring,1000.0,34.0,0.836828
 003663-13-1,NV15313,1722000,5.0 x 22.5mm .265 Solid Cancellous Shank,27.0,140.0,Shank,25.0,13.0,2.507143
 003663-13-1,NV15332,1773780,RSS Polyaxial Screw Tulip,27.0,549.0,Tulip,500.0,29.0,1.42623
-Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring
+003663-14-1,NV15327,1773781,RSS Clip Ring Formed,80.0,1331.0,Cam???,1000.0,34.0,2.043576
 003663-14-1,nv15346,1722000,5.0 x 25mm .265 Solid Cancellous Shank,82.0,82.0,Shank,75.0,13.0,13.0
 003663-14-1,nv15377,1773780,RSS Polyaxial Screw Tulip,80.0,550.0,Tulip,500.0,29.0,4.218182
 003663-14-1,nv15602,1773788,RSS Load Ring,80.0,1105.0,Load Ring,1000.0,34.0,2.461538
@@ -29,25 +29,25 @@ Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,
 003663-15-1,NV15330,1773780,RSS Polyaxial Screw Tulip,192.0,550.0,Tulip,500.0,29.0,10.123636
 003663-16-1,nv15286,1773780,RSS Polyaxial Screw Tulip,295.0,550.0,Tulip,500.0,29.0,15.554545
 003663-16-1,nv15325,1773788,RSS Load Ring,295.0,1100.0,Load Ring,1000.0,34.0,9.118182
-Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring
+003663-16-1,nv15329,1773781,RSS Clip Ring Formed,295.0,699.0,Cam???,1000.0,34.0,14.34907
 003663-16-1,NV15348,1722000,5.0 x 30mm .265 Solid Cancellous Shank,295.0,295.0,Shank,275.0,20.0,20.0
-Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring
+003663-17-1,nv15327,1773781,RSS Clip Ring Formed,85.0,1331.0,Cam???,1000.0,34.0,2.1713
 003663-17-1,nv15334,1773780,RSS Polyaxial Screw Tulip,85.0,642.0,Tulip,500.0,29.0,3.839564
 003663-17-1,nv15362,1722000,5.0 x 35mm .265 Solid Cancellous Shank,85.0,85.0,Shank,75.0,13.0,13.0
 003663-17-1,nv15602,1773788,RSS Load Ring,85.0,1105.0,Load Ring,1000.0,34.0,2.615385
 003663-18-1,nv14608,1722000,5.0 x 40mm .265 Solid Cancellous Shank,21.0,158.0,Shank,45.0,13.0,1.727848
-Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring
+003663-18-1,nv15327,1773781,RSS Clip Ring Formed,21.0,1331.0,Cam???,1000.0,34.0,0.536439
 003663-18-1,nv15334,1773780,RSS Polyaxial Screw Tulip,21.0,642.0,Tulip,500.0,29.0,0.948598
 003663-18-1,nv15602,1773788,RSS Load Ring,27.0,1105.0,Load Ring,1000.0,34.0,0.830769
 003663-19-1,NV14962,1722000,5.5 x 20mm .265 Solid Cancellous Shank,28.0,55.0,Shank,25.0,13.0,6.618182
-Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring
+003663-19-1,nv15327,1773781,RSS Clip Ring Formed,27.0,1331.0,Cam???,1000.0,34.0,0.689707
 003663-19-1,nv15334,1773780,RSS Polyaxial Screw Tulip,27.0,642.0,Tulip,500.0,29.0,1.219626
 003663-19-1,nv15602,1773788,RSS Load Ring,27.0,1105.0,Load Ring,1000.0,34.0,0.830769
-Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring
+003663-20-1,NV15327,1773781,RSS Clip Ring Formed,83.0,1331.0,Cam???,1000.0,34.0,2.12021
 003663-20-1,NV15351,1722000,5.5 x 25mm .265 Solid Cancellous Shank,83.0,83.0,Shank,75.0,13.0,13.0
 003663-20-1,NV15377,1773780,RSS Polyaxial Screw Tulip,83.0,550.0,Tulip,500.0,29.0,4.376364
 003663-20-1,nv15602,1773788,RSS Load Ring,83.0,1105.0,Load Ring,1000.0,34.0,2.553846
-Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring
+003663-2-1,NV15327,1773781,RSS Clip Ring Formed,27.0,1331.0,Cam???,1000.0,34.0,0.689707
 003663-2-1,nv15337,1722000,4.0 x 22.5mm .265 Solid Cancellous Shank,27.0,27.0,Shank,25.0,13.0,13.0
 003663-2-1,NV15377,1773780,RSS Polyaxial Screw Tulip,27.0,550.0,Tulip,500.0,29.0,1.423636
 003663-2-1,nv15602,1773788,RSS Load Ring,27.0,1105.0,Load Ring,1000.0,34.0,0.830769
@@ -56,10 +56,10 @@ Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,
 003663-21-1,NV15328,1773781,RSS Clip Ring Formed,87.0,1098.0,Clip/Split Ring,1000.0,34.0,2.693989
 003663-21-1,nv15331,1773780,RSS Polyaxial Screw Tulip,87.0,549.0,Tulip,500.0,29.0,4.595628
 003663-21-2,nv15290,1773788,RSS Load Ring,22.0,1553.0,Load Ring,1000.0,34.0,0.481648
-Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring
+003663-21-2,NV15327,1773781,RSS Clip Ring Formed,21.0,1331.0,Cam???,1000.0,34.0,0.536439
 003663-21-2,NV15352,1722000,5.5 x 30mm .265 Solid Cancellous Shank,21.0,242.0,Shank,200.0,20.0,1.735537
 003663-21-2,nv15377,1773780,RSS Polyaxial Screw Tulip,21.0,550.0,Tulip,500.0,29.0,1.107273
-Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring
+003663-21-3,NV15327,1773781,RSS Clip Ring Formed,91.0,1331.0,Cam???,1000.0,34.0,2.324568
 003663-21-3,NV15352,1722000,5.5 x 30mm .265 Solid Cancellous Shank,91.0,242.0,Shank,200.0,20.0,7.520661
 003663-21-3,nv15377,1773780,RSS Polyaxial Screw Tulip,91.0,550.0,Tulip,500.0,29.0,4.798182
 003663-21-3,nv15602,1773788,RSS Load Ring,91.0,1105.0,Load Ring,1000.0,34.0,2.8
@@ -77,7 +77,7 @@ Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,
 003663-23-2,NV15331,1773780,RSS Polyaxial Screw Tulip,38.0,549.0,Tulip,500.0,29.0,2.007286
 003663-23-2,nv15333,1773780,RSS Polyaxial Screw Tulip,38.0,550.0,Tulip,500.0,29.0,2.003636
 003663-24-1,nv15325,1773788,RSS Load Ring,27.0,1100.0,Load Ring,1000.0,34.0,0.834545
-Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring
+003663-24-1,NV15329,1773781,RSS Clip Ring Formed,27.0,699.0,Cam???,1000.0,34.0,1.313305
 003663-24-1,NV15331,1773780,RSS Polyaxial Screw Tulip,27.0,549.0,Tulip,500.0,29.0,1.42623
 003663-24-1,NV15355,1722000,5.5 x 80mm .265 Solid Cancellous Shank,27.0,27.0,Shank,25.0,13.0,13.0
 003663-25-1,NV15288,1773781,RSS Clip Ring Formed,55.0,1092.0,Clip/Split Ring,1000.0,34.0,1.712454
@@ -97,35 +97,35 @@ Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,
 003663-28-1,NV15328,1773781,RSS Clip Ring Formed,55.0,1098.0,Clip/Split Ring,1000.0,34.0,1.703097
 003663-28-1,nv15331,1773780,RSS Polyaxial Screw Tulip,55.0,549.0,Tulip,500.0,29.0,2.905282
 003663-29-1,NV15319,1722000,6.5 x 35mm .265 Solid Cancellous Shank,28.0,55.0,Shank,25.0,13.0,6.618182
-Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring
+003663-29-1,NV15327,1773781,RSS Clip Ring Formed,28.0,1331.0,Cam???,1000.0,34.0,0.715252
 003663-29-1,NV15377,1773780,RSS Polyaxial Screw Tulip,28.0,550.0,Tulip,500.0,29.0,1.476364
 003663-29-1,nv15602,1773788,RSS Load Ring,28.0,1105.0,Load Ring,1000.0,34.0,0.861538
 003663-30-1,NV15286,1773780,RSS Polyaxial Screw Tulip,21.0,550.0,Tulip,500.0,29.0,1.107273
 003663-30-1,NV15320,1722000,6.5 x 40mm .265 Solid Cancellous Shank,27.0,107.0,Shank,46.0,13.0,3.280374
 003663-30-1,nv15325,1773788,RSS Load Ring,55.0,1100.0,Load Ring,1000.0,34.0,1.7
-Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring
+003663-30-1,nv15327,1773781,RSS Clip Ring Formed,18.0,1331.0,Cam???,1000.0,34.0,0.459805
 003663-30-2,NV14481,1722000,6.5 x 40mm .265 Solid Cancellous Shank,15.0,29.0,Shank,25.0,13.0,6.724138
 003663-30-2,NV15284,1773780,RSS Polyaxial Screw Tulip,15.0,550.0,Tulip,500.0,29.0,0.790909
 003663-30-2,NV15325,1773788,RSS Load Ring,15.0,1100.0,Load Ring,1000.0,34.0,0.463636
-Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring
+003663-30-2,nv15327,1773781,RSS Clip Ring Formed,15.0,1331.0,Cam???,1000.0,34.0,0.383171
 003663-30-3,NV14201,1773780,RSS Polyaxial Screw Tulip,13.0,548.0,Tulip,500.0,29.0,0.687956
 003663-30-3,NV14481,1722000,6.5 x 40mm .265 Solid Cancellous Shank,14.0,29.0,Shank,25.0,13.0,6.275862
 003663-30-3,NV15288,1773781,RSS Clip Ring Formed,13.0,1092.0,Clip/Split Ring,1000.0,34.0,0.404762
 003663-30-3,NV15325,1773788,RSS Load Ring,19.0,1100.0,Load Ring,1000.0,34.0,0.587273
-Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring
+003663-3-1,NV15327,1773781,RSS Clip Ring Formed,54.0,1331.0,Cam???,1000.0,34.0,1.379414
 003663-3-1,nv15338,1722000,4.0 x 25mm .265 Solid Cancellous Shank,54.0,54.0,Shank,50.0,13.0,13.0
 003663-3-1,NV15377,1773780,RSS Polyaxial Screw Tulip,54.0,550.0,Tulip,500.0,29.0,2.847273
 003663-3-1,nv15602,1773788,RSS Load Ring,54.0,1105.0,Load Ring,1000.0,34.0,1.661538
 003663-31-1,nv15325,1773788,RSS Load Ring,27.0,1100.0,Load Ring,1000.0,34.0,0.834545
-Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring
+003663-31-1,nv15327,1773781,RSS Clip Ring Formed,14.0,1331.0,Cam???,1000.0,34.0,0.357626
 003663-31-1,NV15331,1773780,RSS Polyaxial Screw Tulip,14.0,549.0,Tulip,500.0,29.0,0.739526
 003663-31-1,nv15335,1722000,6.5 x 65mm .265 Solid Cancellous Shank,15.0,28.0,Shank,25.0,13.0,6.964286
 003663-31-2,NV15285,1773780,RSS Polyaxial Screw Tulip,13.0,550.0,Tulip,500.0,29.0,0.685455
 003663-31-2,NV15325,1773788,RSS Load Ring,13.0,1100.0,Load Ring,1000.0,34.0,0.401818
-Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring
+003663-31-2,nv15327,1773781,RSS Clip Ring Formed,13.0,1331.0,Cam???,1000.0,34.0,0.332081
 003663-31-2,nv15335,1722000,6.5 x 65mm .265 Solid Cancellous Shank,13.0,28.0,Shank,25.0,13.0,6.035714
 003663-4-1,NV13825,1722000,4.0 x 27.5mm .265 Solid Cancellous Shank,27.0,88.0,Shank,80.0,13.0,3.988636
-Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring
+003663-4-1,NV15327,1773781,RSS Clip Ring Formed,27.0,1331.0,Cam???,1000.0,34.0,0.689707
 003663-4-1,NV15377,1773780,RSS Polyaxial Screw Tulip,27.0,550.0,Tulip,500.0,29.0,1.423636
 003663-4-1,nv15602,1773788,RSS Load Ring,27.0,1105.0,Load Ring,1000.0,34.0,0.830769
 003663-5-1,NV15288,1773781,RSS Clip Ring Formed,160.0,1092.0,Clip/Split Ring,1000.0,34.0,4.981685
@@ -142,9 +142,9 @@ Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,
 003663-7-1,nv15331,1773780,RSS Polyaxial Screw Tulip,55.0,549.0,Tulip,500.0,29.0,2.905282
 003663-8-1,NV15310,1722000,4.5 x 25mm .265 Solid Cancellous Shank,55.0,219.0,Shank,200.0,20.0,5.022831
 003663-8-1,nv15325,1773788,RSS Load Ring,55.0,1100.0,Load Ring,1000.0,34.0,1.7
-Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring
+003663-8-1,nv15327,1773781,RSS Clip Ring Formed,55.0,1331.0,Cam???,1000.0,34.0,1.404959
 003663-8-1,nv15377,1773780,RSS Polyaxial Screw Tulip,55.0,550.0,Tulip,500.0,29.0,2.9
 003663-9-1,NV15242,1722000,4.5 x 27.5mm .265 Solid Cancellous Shank,52.0,163.0,Shank,50.0,13.0,4.147239
 003663-9-1,NV15286,1773780,RSS Polyaxial Screw Tulip,52.0,550.0,Tulip,500.0,29.0,2.741818
 003663-9-1,nv15325,1773788,RSS Load Ring,55.0,1100.0,Load Ring,1000.0,34.0,1.7
-Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring,Clip/Split Ring
+003663-9-1,NV15329,1773781,RSS Clip Ring Formed,52.0,699.0,Cam???,1000.0,34.0,2.529328
